@@ -1,0 +1,26 @@
+How to Execute the Batch File
+=============================
+
+1. Ensure Python is installed on your computer.
+   - Open Command Prompt and type: python --version
+   - If Python is not recognized, ensure it is added to your PATH or update the batch file with the full path to the Python executable.
+
+2. Place the following files in the same folder:
+   - Process_Info.py (the Python script you want to run)
+   - run_process_info.bat (the batch file)
+   - Students.csv (if required by your Python script)
+
+3. To execute the batch file:
+   - Double-click run_process_info.bat.
+   - A command window will appear and display messages about the execution process.
+
+4. If you encounter issues:
+   - Ensure all files are in the correct location.
+   - Check that Python is properly installed and accessible from the command line.
+   - Review the output messages for any specific errors.
+
+5. After execution:
+   - Check for output files or results as specified in your Python script.
+   - For example, if the script generates a Results.csv file, it will be located in the same directory.
+
+Thank you!
